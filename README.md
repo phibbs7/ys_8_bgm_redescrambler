@@ -25,3 +25,5 @@ Compiling:
 		2. Move to the folder where you put ys_8_bgm_redescrambler.c and type this in:
 			cl.exe /TC /EHsc ys_8_bgm_redescrambler.c /Feys_8_bgm_redescrambler.exe
 
+All content within is copyrighted / trademarked / patented by their respective owners. 
+
